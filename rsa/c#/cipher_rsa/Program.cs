@@ -39,8 +39,6 @@ namespace RsaCryptoExample
                 pubKey = (RSAParameters)xs.Deserialize(sr);
             }
 
-            //conversion for the private key is no black magic either ... omitted
-
             //we have a public key ... let's get a new csp and load that key
             csp = new RSACryptoServiceProvider();
             csp.ImportParameters(pubKey);
