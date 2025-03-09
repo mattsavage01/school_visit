@@ -77,7 +77,7 @@ namespace RsaCryptoExample
             }
             else
             {
-                Console.WriteLine("Input was Null. Please try again!");
+                Console.WriteLine("Input was Empty or Null. Please try again!");
             }
         }
     }
