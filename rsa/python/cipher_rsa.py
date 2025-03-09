@@ -8,7 +8,10 @@ import sys
 publicKey, privateKey = rsa.newkeys(1024)
 
 # this is the string that we will be encrypting
-message = sys.argv[1]
+message = sys.argv[1] if len(sys.argv) < 1 else ""
+
+if message == "":
+    message = input("Text to Encrypt?")
 
 # rsa.encrypt method is used to encrypt 
 # string with public key string should be 

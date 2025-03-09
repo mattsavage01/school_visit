@@ -5,6 +5,11 @@ $privateKey = $rsa.ToXmlString($true)  # true for both public and private keys
 
 # Data to encrypt
 $data = $($args[0])
+if ($null -eq $data)
+{
+    Write-Host "Text to Encrypt?"
+    $data = Read-Host
+}
 $encoding = [System.Text.Encoding]::UTF8
 $bytes = $encoding.GetBytes($data)
 

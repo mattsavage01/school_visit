@@ -1,0 +1,15 @@
+c:\Python\MattScripts\School_Visit\rsa\c#\cipher_rsa\obj\Debug\net9.0\cipher_rsa.GeneratedMSBuildEditorConfig.editorconfig
+c:\Python\MattScripts\School_Visit\rsa\c#\cipher_rsa\obj\Debug\net9.0\cipher_rsa.AssemblyInfoInputs.cache
+c:\Python\MattScripts\School_Visit\rsa\c#\cipher_rsa\obj\Debug\net9.0\cipher_rsa.AssemblyInfo.cs
+c:\Python\MattScripts\School_Visit\rsa\c#\cipher_rsa\obj\Debug\net9.0\cipher_rsa.csproj.CoreCompileInputs.cache
+c:\Python\MattScripts\School_Visit\rsa\c#\cipher_rsa\obj\Debug\net9.0\cipher_rsa.sourcelink.json
+c:\Python\MattScripts\School_Visit\rsa\c#\cipher_rsa\bin\Debug\net9.0\cipher_rsa.exe
+c:\Python\MattScripts\School_Visit\rsa\c#\cipher_rsa\bin\Debug\net9.0\cipher_rsa.deps.json
+c:\Python\MattScripts\School_Visit\rsa\c#\cipher_rsa\bin\Debug\net9.0\cipher_rsa.runtimeconfig.json
+c:\Python\MattScripts\School_Visit\rsa\c#\cipher_rsa\bin\Debug\net9.0\cipher_rsa.dll
+c:\Python\MattScripts\School_Visit\rsa\c#\cipher_rsa\bin\Debug\net9.0\cipher_rsa.pdb
+c:\Python\MattScripts\School_Visit\rsa\c#\cipher_rsa\obj\Debug\net9.0\cipher_rsa.dll
+c:\Python\MattScripts\School_Visit\rsa\c#\cipher_rsa\obj\Debug\net9.0\refint\cipher_rsa.dll
+c:\Python\MattScripts\School_Visit\rsa\c#\cipher_rsa\obj\Debug\net9.0\cipher_rsa.pdb
+c:\Python\MattScripts\School_Visit\rsa\c#\cipher_rsa\obj\Debug\net9.0\cipher_rsa.genruntimeconfig.cache
+c:\Python\MattScripts\School_Visit\rsa\c#\cipher_rsa\obj\Debug\net9.0\ref\cipher_rsa.dll

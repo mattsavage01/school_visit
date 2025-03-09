@@ -1,0 +1,4 @@
+{
+    "code-runner.runInTerminal": false,
+    "dotnet.defaultSolution": "cipher_rsa.sln"
+}
