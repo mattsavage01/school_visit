@@ -9,7 +9,6 @@ publicKey, privateKey = rsa.newkeys(1024)
 
 # this is the string that we will be encrypting
 message = sys.argv[1] if len(sys.argv) < 1 else ""
-
 if message == "":
     message = input("Text to Encrypt?")
 
@@ -24,7 +23,7 @@ print("original string: ", message)
 print("encrypted string: ", encMessage)
 
 # the encrypted message can be decrypted 
-# with ras.decrypt method and private key
+# with rsa.decrypt method and private key
 # decrypt method returns encoded byte string,
 # use decode method to convert it to string
 # public key cannot be used for decryption
