@@ -9,6 +9,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "c#", "c#", "{55869D36-1FED-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cipher_rsa", "rsa\c#\cipher_rsa\cipher_rsa.csproj", "{F7F4DA46-3225-41F7-BA20-57EEE8A135E2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "caesar", "caesar", "{C9AD198B-E29D-55A0-0A91-DE3EF97C8EF9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "c#", "c#", "{8C82FA36-6BFA-DEE6-7552-4A1647FF54C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cipher_caesar", "caesar\c#\cipher_caesar\cipher_caesar.csproj", "{DD488AE4-D873-4A61-A8B9-BC73A16E0B9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +37,18 @@ Global
 		{F7F4DA46-3225-41F7-BA20-57EEE8A135E2}.Release|x64.Build.0 = Release|Any CPU
 		{F7F4DA46-3225-41F7-BA20-57EEE8A135E2}.Release|x86.ActiveCfg = Release|Any CPU
 		{F7F4DA46-3225-41F7-BA20-57EEE8A135E2}.Release|x86.Build.0 = Release|Any CPU
+		{DD488AE4-D873-4A61-A8B9-BC73A16E0B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD488AE4-D873-4A61-A8B9-BC73A16E0B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD488AE4-D873-4A61-A8B9-BC73A16E0B9F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DD488AE4-D873-4A61-A8B9-BC73A16E0B9F}.Debug|x64.Build.0 = Debug|Any CPU
+		{DD488AE4-D873-4A61-A8B9-BC73A16E0B9F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DD488AE4-D873-4A61-A8B9-BC73A16E0B9F}.Debug|x86.Build.0 = Debug|Any CPU
+		{DD488AE4-D873-4A61-A8B9-BC73A16E0B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD488AE4-D873-4A61-A8B9-BC73A16E0B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD488AE4-D873-4A61-A8B9-BC73A16E0B9F}.Release|x64.ActiveCfg = Release|Any CPU
+		{DD488AE4-D873-4A61-A8B9-BC73A16E0B9F}.Release|x64.Build.0 = Release|Any CPU
+		{DD488AE4-D873-4A61-A8B9-BC73A16E0B9F}.Release|x86.ActiveCfg = Release|Any CPU
+		{DD488AE4-D873-4A61-A8B9-BC73A16E0B9F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -38,5 +56,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{55869D36-1FED-95A3-3CE7-15C9EEDCC439} = {F5FACC34-BEB2-4CF5-D7A8-B350D41F0DE4}
 		{F7F4DA46-3225-41F7-BA20-57EEE8A135E2} = {55869D36-1FED-95A3-3CE7-15C9EEDCC439}
+		{8C82FA36-6BFA-DEE6-7552-4A1647FF54C0} = {C9AD198B-E29D-55A0-0A91-DE3EF97C8EF9}
+		{DD488AE4-D873-4A61-A8B9-BC73A16E0B9F} = {8C82FA36-6BFA-DEE6-7552-4A1647FF54C0}
 	EndGlobalSection
 EndGlobal

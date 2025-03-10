@@ -71,14 +71,17 @@ namespace RsaCryptoExample
                 //get our original plainText back...
                 var decryptedPlainTextData = System.Text.Encoding.Unicode.GetString(decryptedBytesPlainTextData);
 
-                Console.WriteLine("Original Text: " + plainTextData);
-                Console.WriteLine("Encrypted Text: " + cypherText);
-                Console.WriteLine("Decrypted Text: " + decryptedPlainTextData);
+                Console.WriteLine("\nOriginal Text: " + plainTextData);
+                Console.WriteLine("\nEncrypted Text: " + cypherText);
+                Console.WriteLine("\nDecrypted Text: " + decryptedPlainTextData);
             }
             else
             {
                 Console.WriteLine("Input was Empty or Null. Please try again!");
             }
+
+            Console.WriteLine("Enter to exit...");
+            Console.ReadLine();
         }
     }
 }

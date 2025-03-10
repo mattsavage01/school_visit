@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Python\\MattScripts\\School_Visit\\rsa\\c#\\cipher_rsa\\cipher_rsa.csproj": {}
+    "C:\\Python\\MattScripts\\School_Visit\\caesar\\c#\\cipher_caesar\\cipher_caesar.csproj": {}
   },
   "projects": {
-    "C:\\Python\\MattScripts\\School_Visit\\rsa\\c#\\cipher_rsa\\cipher_rsa.csproj": {
+    "C:\\Python\\MattScripts\\School_Visit\\caesar\\c#\\cipher_caesar\\cipher_caesar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Python\\MattScripts\\School_Visit\\rsa\\c#\\cipher_rsa\\cipher_rsa.csproj",
-        "projectName": "cipher_rsa",
-        "projectPath": "C:\\Python\\MattScripts\\School_Visit\\rsa\\c#\\cipher_rsa\\cipher_rsa.csproj",
+        "projectUniqueName": "C:\\Python\\MattScripts\\School_Visit\\caesar\\c#\\cipher_caesar\\cipher_caesar.csproj",
+        "projectName": "cipher_caesar",
+        "projectPath": "C:\\Python\\MattScripts\\School_Visit\\caesar\\c#\\cipher_caesar\\cipher_caesar.csproj",
         "packagesPath": "C:\\Users\\effin\\.nuget\\packages\\",
-        "outputPath": "C:\\Python\\MattScripts\\School_Visit\\rsa\\c#\\cipher_rsa\\obj\\",
+        "outputPath": "C:\\Python\\MattScripts\\School_Visit\\caesar\\c#\\cipher_caesar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\effin\\AppData\\Roaming\\NuGet\\NuGet.Config"
